@@ -15,7 +15,38 @@ var myApp = new Framework7({
 		path: '/home/',
     	url: 'index.html',
     	name: 'home',
+  		},
+		{
+		path: '/list/',
+    	url: 'list.html',
+    	name: 'list',
+  		},
+		{
+		path: '/card/',
+    	url: 'card.html',
+    	name: 'card',
+  		},
+		{
+		path: '/menu/',
+    	url: 'menu.html',
+    	name: 'menu',
+  		},
+		{
+		path: '/info/',
+    	url: 'info.html',
+    	name: 'info',
+  		},
+		{
+		path: '/tabs/',
+    	url: 'tabs.html',
+    	name: 'tabs',
+  		},
+		{
+		path: '/form/',
+    	url: 'form.html',
+    	name: 'form',
   		}
+		
 	]
 });
 
